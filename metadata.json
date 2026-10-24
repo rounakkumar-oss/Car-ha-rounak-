@@ -1,0 +1,6 @@
+{
+  "name": "Flying Car Rush 3D",
+  "description": "A high-speed futuristic 3D endless-runner flying sports car game built with Three.js and WebGL for Android mobile and desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

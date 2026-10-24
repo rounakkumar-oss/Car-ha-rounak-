@@ -1,0 +1,9 @@
+{
+  "appId": "com.flyingcarrush3d.game",
+  "appName": "Flying Car Rush 3D",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
